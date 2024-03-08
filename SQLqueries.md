@@ -33,8 +33,12 @@ LIMIT 10;
 ![image](https://github.com/amboym/DraftFPLDB/assets/162647158/6348b398-4e4a-4d6c-9013-78aeeab90beb)
 
 
-### Which owner has the most players with yellow cards?
-    
+### Which owner has the most yellow cards?
+- owner is the 'owner id' you have when you go to the points page on fpl
+-  ex) https://draft.premierleague.com/entry/xxxxxx/event/27
+  -- the 'xxxxxx' is where the owner id would be.
+
+
 ```sql
 SELECT
     owner,
