@@ -1,8 +1,10 @@
 ### Unique Players 
 
+```sql
 SELECT 
 	COUNT(DISTINCT name) AS unique_players
 from fpl23
+'''
 
 ## Output 
 ![image](https://github.com/amboym/DraftFPLDB/assets/162647158/a14b46f8-c3ba-4c5f-bf59-091005e6ba4c)
