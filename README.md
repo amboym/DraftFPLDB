@@ -1,2 +1,2 @@
 # DraftFPL Database (RUGFPL2023)
-I developed a comprehensive database capable of storing weekly player statistics sourced from user-selected teams via the Draft Fantasy Premier League API. This project was created for the 2023 Fantasy League involving 8 of my friends in a league called RUGFPL2023 so that our stats would be saved throughout the years and to do a recap/overview at the end of the year.
+
