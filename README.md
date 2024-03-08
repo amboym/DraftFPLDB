@@ -4,9 +4,6 @@ Developed a comprehensive database capable of storing weekly player statistics s
 from user-selected teams via the Fantasy Premier League API
 - Leveraged Pandas to extract, transform and load player and statistics into a
 PostgreSQL database, ensuring data integrity and efficiency.
-- Demonstrated proficiency in integrating diverse data sources, enabling insightful
-analysis and visualization for strategic decision-making in sports analytics and
-fantasy football management.
 
 Another advantage of having stored this database in SQL, is because of its connection
 to Tableau. For each year, I intend to keep this database running for each year we play
