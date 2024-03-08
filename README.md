@@ -1,9 +1,6 @@
 # DraftFPL Database (RUGFPL2023)
-
-Developed a comprehensive database capable of storing weekly player statistics sourced
-from user-selected teams via the Fantasy Premier League API
-- Leveraged Pandas to extract, transform and load player and statistics into a
-PostgreSQL database, ensuring data integrity and efficiency.
+## Introduction
+I developed a comprehensive database capable of storing weekly player statistics sourced from user-selected teams via the Draft Fantasy Premier League API. This project was created for the 2023 Fantasy League involving 8 of my friends in a league called RUGFPL2023. The purpose was to ensure that our stats would be saved throughout the years (as FPL does not store draft league data), enable functionality of querying player comparisons and team performance, and facilitate the creation of an infographic at the end of the season that provides an overview of the league and each team's performance.
 ___
 An advantage of having stored this database in SQL, is because of its connection
 to Tableau. For each year, I intend to keep this database running for each year we play
