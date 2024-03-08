@@ -6,7 +6,7 @@ SELECT
 from fpl23;
 ```
 
-## Output 
+### Output 
 ![image](https://github.com/amboym/DraftFPLDB/assets/162647158/a14b46f8-c3ba-4c5f-bf59-091005e6ba4c)
 
 
@@ -29,6 +29,7 @@ LIMIT 10;
 
 ```
 
+### Output 
 
 ![image](https://github.com/amboym/DraftFPLDB/assets/162647158/6348b398-4e4a-4d6c-9013-78aeeab90beb)
 
@@ -51,7 +52,7 @@ ORDER BY
 ```
 
 
-
+### Output 
 ![image](https://github.com/amboym/DraftFPLDB/assets/162647158/ef4ea700-ecc2-4ce7-97fd-e7cc9b633fc2)
 
 
