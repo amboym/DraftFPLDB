@@ -38,7 +38,6 @@ LIMIT 10;
 -  ex) https://draft.premierleague.com/entry/xxxxxx/event/27
   -- the 'xxxxxx' is where the owner id would be.
 
-
 ```sql
 SELECT
     owner,
@@ -49,9 +48,6 @@ GROUP BY
     owner
 ORDER BY
     total_yellow_cards DESC;
-
-
-
 ```
 
 
